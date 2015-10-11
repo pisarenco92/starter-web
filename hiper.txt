@@ -16,6 +16,12 @@ Create a new directory with the Bash Command Line
 Create files with the Bash Command Line
 Remove files with the Bash Command Line
 Remove directories with the Bash Command Line
+Configuring Git and Creating a Repository:mand Line
+Remove directories with the Bash Command Line
+Configuring Git and Creating a Repository:mand Line
+Remove directories with the Bash Command Line
+Configuring Git and Creating a Repository:mand Line
+Remove directories with the Bash Command Line
 Configuring Git and Creating a Repository:
 Configure Git
 Initialize a new repository
@@ -184,6 +190,13 @@ $ touch /c/SomeFolder/newFile.txt
 Create multiple (empty) text files in the current directory:
 $ touch newFile_1.txt newFile_2 . . . newFile_ndvdsvdsv
  
+ith the file system
+Navigating the file system with the Bash Command Line
+Show directory contents with the Bash Command Line
+Create a new directory with the Bash Command Line
+Create files with the Bash Command Line
+Remove files with the Bash Command Line
+Remove directories with the Bash Command Line
 
 Append text to a file. If the file does not exist, one is created:
 $ echo “This text is added to the end of the file” >> newFile.txt
