@@ -182,7 +182,7 @@ $ touch /c/SomeFolder/newFile.txt
  
 
 Create multiple (empty) text files in the current directory:
-$ touch newFile_1.txt newFile_2 . . . newFile_n
+$ touch newFile_1.txt newFile_2 . . . newFile_ndvdsvdsv
  
 
 Append text to a file. If the file does not exist, one is created:
