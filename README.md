@@ -12,4 +12,7 @@ The purpose is to learn git
 
 ## Deployment
 
+Deployme text
+
 ## How to contribute
+dfdsgdsg
