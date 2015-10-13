@@ -4,6 +4,8 @@ This is a simple web project
 
 ## Introduction
 
+This is an introduction
+
 ## Purpose
 
 ## Deployment
