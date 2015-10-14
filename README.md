@@ -16,3 +16,5 @@ Deployme text
 
 ## How to contribute
 dfdsgdsg
+
+###Copyright
